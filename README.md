@@ -35,3 +35,10 @@ The backend of the system uses Python with the **scikit-learn** library to train
 - **Joblib** – Model serialization
 - **HTML/CSS** – For the frontend web form
 ## out put
+[Image](https://github.com/user-attachments/assets/545cfc45-9745-47d1-9a71-23d76f866fc3)
+
+![Image](https://github.com/user-attachments/assets/98192b01-ef91-4947-af4f-67d9ebac7ddf)
+
+![Image](https://github.com/user-attachments/assets/4c735657-c8bc-4329-8775-a0d8ff63c08d)
+
+![Image](https://github.com/user-attachments/assets/d29191fc-7750-4a8d-a3f3-420a203cd676)
